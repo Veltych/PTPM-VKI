@@ -1,0 +1,28 @@
+2026-09-29 19:39:09 | [INFO   ] | Логгер успешно сконфигурирован
+2026-09-29 19:39:09 | [INFO   ] | Приложение запущено
+2026-09-29 19:39:25 | [INFO   ] | not triangle, all coords = (-1, -1)
+2026-09-29 19:39:43 | [INFO   ] | Логгер успешно сконфигурирован
+2026-09-29 19:39:43 | [INFO   ] | Приложение запущено
+2026-09-29 19:44:28 | [INFO   ] | Logger successfully configured
+2026-09-29 19:44:28 | [INFO   ] | App is running...
+2026-09-29 19:44:34 | [INFO   ] | not equilateral
+2026-09-29 19:45:59 | [INFO   ] | Logger successfully configured
+2026-09-29 19:45:59 | [INFO   ] | App is running...
+2026-09-29 19:46:03 | [INFO   ] | notTriangle
+2026-09-29 19:46:03 | [INFO   ] | not triangle, all coords = (-1, -1)
+2026-09-29 19:46:41 | [INFO   ] | Logger successfully configured
+2026-09-29 19:46:41 | [INFO   ] | App is running...
+2026-09-29 19:46:45 | [INFO   ] | not triangle
+2026-09-29 19:46:45 | [INFO   ] | all coords = (-1, -1)
+2026-09-29 19:47:44 | [WARNING] | ==============
+2026-09-29 19:47:44 | [INFO   ] | Logger successfully configured
+2026-09-29 19:47:44 | [INFO   ] | App is running...
+2026-09-29 19:47:53 | [INFO   ] | all coords = (-2, -2)
+2026-09-29 20:26:26 | [WARNING] | ==============
+2026-09-29 20:26:26 | [INFO   ] | Logger successfully configured
+2026-09-29 20:26:26 | [INFO   ] | App is running...
+2026-09-29 20:26:30 | [INFO   ] | not equilateral
+2026-09-29 20:51:22 | [WARNING] | ==============
+2026-09-29 20:51:22 | [INFO   ] | Logger successfully configured
+2026-09-29 20:51:22 | [INFO   ] | App is running...
+2026-09-29 20:51:25 | [INFO   ] | invalid values, all coords = (-2, -2) oo
